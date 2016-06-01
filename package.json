@@ -1,0 +1,22 @@
+{
+  "name": "service-credentials",
+  "version": "1.0.0",
+  "description": "service credentials provider utilizing cfenv",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "dependencies": {
+    "cfenv": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbriones/service-credentials"
+  },
+  "author": "Phil Briones <satire99@hotmail.com>",
+  "license": "ISC"
+}
